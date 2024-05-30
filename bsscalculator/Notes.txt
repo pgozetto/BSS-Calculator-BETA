@@ -1,0 +1,7 @@
+Welcome!
+Requirementes:
+-Python installed (newest version)
+-CustomTkinter Libraly Dowload (pib install customtkinter)
+
+Version:
+v(a.0.2)
